@@ -1,0 +1,94 @@
+{
+  "nombre": "Juan Pérez García",
+  "datosPersonales": {
+    "nombre": "Juan Pérez García",
+    "mail": "juan.perez@email.com",
+    "telefono": "+34 123 456 789",
+    "direccion": "Bilbao, España",
+    "lema": "Apasionado por la tecnología y el desarrollo web",
+    "fechaNacimiento": "1965-11-18"
+  },
+  "experiencia": [
+    {
+      "puesto": "Desarrollador Full Stack",
+      "periodo": "2020 - Actualidad",
+      "descripcion": "Desarrollo de aplicaciones web modernas",
+      "funciones": [
+        "Desarrollo frontend con React y Vue.js",
+        "Desarrollo backend con Node.js y Python",
+        "Gestión de bases de datos MySQL y MongoDB"
+      ]
+    },
+    {
+      "puesto": "Desarrollador Frontend",
+      "periodo": "2016 - 2020",
+      "descripcion": "Especialización en interfaces de usuario",
+      "funciones": [
+        "Maquetación HTML/CSS responsive",
+        "Desarrollo JavaScript vanilla y jQuery",
+        "Optimización de rendimiento web"
+      ]
+    }
+  ],
+  "formacion": [
+    {
+      "titulo": "Máster en Desarrollo Web",
+      "horas": "600H",
+      "institucion": "Universidad de Deusto",
+      "temario": "JavaScript, React, Node.js, Bases de datos"
+    },
+    {
+      "titulo": "Grado en Ingeniería Informática",
+      "horas": "240 ECTS",
+      "institucion": "Universidad del País Vasco",
+      "temario": "Programación, Algoritmos, Sistemas, Redes"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "lectura": 10,
+      "escritura": 10,
+      "comprension": 10,
+      "nivel": "C2"
+    },
+    {
+      "idioma": "Euskera",
+      "lectura": 6,
+      "escritura": 5,
+      "comprension": 7,
+      "nivel": "B1"
+    },
+    {
+      "idioma": "Inglés",
+      "lectura": 8,
+      "escritura": 7,
+      "comprension": 8,
+      "nivel": "B2"
+    }
+  ],
+  "habilidades": [
+    {
+      "nombre": "HTML5",
+      "nivel": 9
+    },
+    {
+      "nombre": "CSS3",
+      "nivel": 9
+    },
+    {
+      "nombre": "JavaScript",
+      "nivel": 8
+    }
+  ],
+  "contacto": {
+    "titulo": "Información de Contacto",
+    "descripcion": "Puedes contactarme a través de los siguientes medios"
+  },
+  "footer": {
+    "texto": "© 2025 Juan Pérez García"
+  }
+}
+
+
+
