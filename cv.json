@@ -1,57 +1,57 @@
 {
-  "nombre": "Juan Pérez García",
+  "nombre": "Tarik Dahouni",
   "datosPersonales": {
-    "nombre": "Juan Pérez García",
-    "mail": "juan.perez@email.com",
-    "telefono": "+34 123 456 789",
-    "direccion": "Bilbao, España",
+    "nombre": "Tarik Dahouni",
+    "mail": "ademotarik121@gmail.com",
+    "telefono": "+34 602508660",
+    "direccion": "Tolosa, España",
     "lema": "Apasionado por la tecnología y el desarrollo web",
     "fechaNacimiento": "1965-11-18"
   },
   "experiencia": [
     {
-      "puesto": "Desarrollador Full Stack",
-      "periodo": "2020 - Actualidad",
-      "descripcion": "Desarrollo de aplicaciones web modernas",
+      "puesto": "Mecanizado por arranque de viruta",
+      "periodo": "2019 - 2022",
+      "descripcion": "operaciones de mecanizado convencional y/o CNC,fresado.",
       "funciones": [
-        "Desarrollo frontend con React y Vue.js",
-        "Desarrollo backend con Node.js y Python",
-        "Gestión de bases de datos MySQL y MongoDB"
+        "Interpretación de planos técnicos y especificaciones de fabricación",
+        "Realización de operaciones de mecanizado por arranque de viruta",
+        "Cumplimiento de normas de seguridad y calidad en el taller"
       ]
     },
     {
-      "puesto": "Desarrollador Frontend",
-      "periodo": "2016 - 2020",
-      "descripcion": "Especialización en interfaces de usuario",
+      "puesto": " Operario de Producción",
+      "periodo": "2023 - 2024",
+      "descripcion": " Operación de maquinaria de extrusión",
       "funciones": [
-        "Maquetación HTML/CSS responsive",
-        "Desarrollo JavaScript vanilla y jQuery",
-        "Optimización de rendimiento web"
+        " Control de calidad bajo normas ISO 9001",
+        " gestión de incidencias tecnicas",
+        "Cumplimiento de protocolos de seguridad industrial"
       ]
     },
     {
-      "puesto": "Desarrollador Frontend",
-      "periodo": "2016 - 2020",
-      "descripcion": "Especialización en interfaces de usuario",
+      "puesto": " Repartidor de Comida",
+      "periodo": "2022 - 2023",
+      "descripcion": "repartir comida",
       "funciones": [
-        "Maquetación HTML/CSS responsive",
-        "Desarrollo JavaScript vanilla y jQuery",
-        "Optimización de rendimiento web"
+        "Optimización de rutas con apps de geolocalización",
+        " Atención al cliente y gestión autónoma de pedidos"
+        
       ]
     }
   ],
   "formacion": [
     {
-      "titulo": "Máster en Desarrollo Web",
-      "horas": "600H",
-      "institucion": "Universidad de Deusto",
+      "titulo": " Administración de Bases de Datos",
+      "horas": "570H",
+      "institucion": "Urko-Formación",
       "temario": "JavaScript, React, Node.js, Bases de datos"
     },
     {
-      "titulo": "Grado en Ingeniería Informática",
-      "horas": "240 ECTS",
-      "institucion": "Universidad del País Vasco",
-      "temario": "Programación, Algoritmos, Sistemas, Redes"
+      "titulo": " Mecanizado por Arranque de Viruta",
+      "horas": "570H",
+      "institucion": "La salle",
+      "temario": "cnc, fresa, turno, condicional"
     }
   ],
   "idiomas": [
@@ -63,27 +63,27 @@
       "nivel": "C2"
     },
     {
-      "idioma": "Euskera",
-      "lectura": 6,
-      "escritura": 5,
-      "comprension": 7,
-      "nivel": "B1"
+      "idioma": "Frances",
+      "lectura": 10,
+      "escritura": 10,
+      "comprension": 10,
+      "nivel": "C2"
     },
     {
       "idioma": "Inglés",
-      "lectura": 8,
-      "escritura": 7,
-      "comprension": 8,
-      "nivel": "B2"
+      "lectura": 10,
+      "escritura": 9,
+      "comprension": 9,
+      "nivel": "C1"
     }
   ],
   "habilidades": [
     {
-      "nombre": "HTML5",
+      "nombre": "Github",
       "nivel": 9
     },
     {
-      "nombre": "CSS3",
+      "nombre": "Dbeaver",
       "nivel": 9
     },
     {
@@ -92,11 +92,11 @@
     }
   ],
   "contacto": {
-    "titulo": "Información de Contacto",
+    "titulo": "linkedin","Github"
     "descripcion": "Puedes contactarme a través de los siguientes medios"
   },
   "footer": {
-    "texto": "© 2025 Juan Pérez García"
+    "texto": "© 2025 Tarik Dahouni"
   }
 }
 
